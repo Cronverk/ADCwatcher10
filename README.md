@@ -1,2 +1,2 @@
 # ADCwatcher10
-Java project for comoport comunication
+Java project for comport comunication
